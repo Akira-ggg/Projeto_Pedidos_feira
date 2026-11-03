@@ -1,0 +1,15 @@
+# Maven
+target/
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.idea/
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
